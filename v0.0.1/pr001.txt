@@ -1,0 +1,2 @@
+battery level : 45
+speed : 20
