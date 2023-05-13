@@ -1,3 +1,5 @@
+//change the values and save to see changes for now
+
 x.innerText = 17
 y.innerText = 20
 const fs = require('fs');
